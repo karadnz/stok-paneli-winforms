@@ -1,0 +1,17 @@
+C:\Users\itopya\source\repos\ndpProje2\ndpProje2\bin\Release\ndpProje2.exe.config
+C:\Users\itopya\source\repos\ndpProje2\ndpProje2\bin\Release\ndpProje2.exe
+C:\Users\itopya\source\repos\ndpProje2\ndpProje2\bin\Release\ndpProje2.pdb
+C:\Users\itopya\source\repos\ndpProje2\ndpProje2\obj\Release\ndpProje2.csproj.AssemblyReference.cache
+C:\Users\itopya\source\repos\ndpProje2\ndpProje2\obj\Release\ndpProje2.gelirGider.resources
+C:\Users\itopya\source\repos\ndpProje2\ndpProje2\obj\Release\ndpProje2.giris.resources
+C:\Users\itopya\source\repos\ndpProje2\ndpProje2\obj\Release\ndpProje2.musteriEkleForm.resources
+C:\Users\itopya\source\repos\ndpProje2\ndpProje2\obj\Release\ndpProje2.musteriPanel.resources
+C:\Users\itopya\source\repos\ndpProje2\ndpProje2\obj\Release\ndpProje2.Properties.Resources.resources
+C:\Users\itopya\source\repos\ndpProje2\ndpProje2\obj\Release\ndpProje2.stokIslemleri.resources
+C:\Users\itopya\source\repos\ndpProje2\ndpProje2\obj\Release\ndpProje2.tedarikciEkleForm.resources
+C:\Users\itopya\source\repos\ndpProje2\ndpProje2\obj\Release\ndpProje2.yoneticiPanel.resources
+C:\Users\itopya\source\repos\ndpProje2\ndpProje2\obj\Release\ndpProje2.yoneticiSiparis.resources
+C:\Users\itopya\source\repos\ndpProje2\ndpProje2\obj\Release\ndpProje2.csproj.GenerateResource.cache
+C:\Users\itopya\source\repos\ndpProje2\ndpProje2\obj\Release\ndpProje2.csproj.CoreCompileInputs.cache
+C:\Users\itopya\source\repos\ndpProje2\ndpProje2\obj\Release\ndpProje2.exe
+C:\Users\itopya\source\repos\ndpProje2\ndpProje2\obj\Release\ndpProje2.pdb
